@@ -1,1 +1,1 @@
-froooo
+AI/ML Engineer and Data Scientist focused on machine learning, deep learning, and applied AI research. Currently studying AI and Data Analysis, with a strong interest in mathematics and model behavior. Working on a master’s thesis exploring biases in large language models.
